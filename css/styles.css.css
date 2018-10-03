@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+	background-color:red;
+	font-family: 'Kanit', sans-serif; 
+}
+
+body{
+	background-color: lawngreen;
+}
+
+h1 {
+	color: yellow;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin: 0px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Kanit', sans-serif;
+	
+}
+
+nav{
+	background-color: yellow;
+	list-style-type: none;
+    margin: 0px;
+    padding: 0px;		
+	margin-bottom: 30px;
+    overflow: hidden;
+	font-family: 'Kanit', sans-serif;
+}
+
+h4{
+	float: left;
+}
+
+h4 a {
+	display: block;
+	color: red;
+	text-align: center;
+	padding: 14px 16px;
+	text text-decoration: none;
+	
+}
+
+h2 {
+	text-align: center
+}
+
+h3 {
+	text-align: center
+}
+
+footer{
+	background-color: red;
+}
+p {
+	text-align: center;
+}
